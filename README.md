@@ -47,6 +47,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![image](https://github.com/PREETHI3312/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/151625222/383a965f-29eb-4fb3-ad75-0ba78d751f70)
+
 
 ### Name:A K PREETHI
 ### Register Number:23013312
