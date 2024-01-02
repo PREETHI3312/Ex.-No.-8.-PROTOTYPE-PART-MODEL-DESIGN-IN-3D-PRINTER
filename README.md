@@ -51,7 +51,7 @@
 
 
 ### Name:A K PREETHI
-### Register Number:23013312
+### Register Number:212223230156
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
